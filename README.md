@@ -3,7 +3,7 @@
 <p><em>BCA Student at <a href="https://www.iec.edu.in//">IEC Group of institute</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![instagram](https://img.shields.io/badge/instagram-fe02bf?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_@shivamkarn_kayastha/)
+[![instagram](https://img.shields.io/badge/instagram-fe02bf?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/_@shivamkarn_kayastha/](https://www.instagram.com/))
 
 [![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skarn-2006)
 
