@@ -10,13 +10,11 @@ Welcome to my GitHub! I'm a passionate front-end developer, crafting sleek and r
 - 🚀 **Currently Exploring:** Responsive design principles, web accessibility, and JavaScript animation libraries
 
 ## 📌 Featured Projects
-### 💻 Interactive Web Interfaces
-A collection of user-friendly websites featuring responsive layouts, interactive JS components, and clean UI/UX fundamentals  
-→ [View Projects](#)
+### 💻 A Pharmaceutical inventory ⚕ 
+A webpage for managing the medicine inventory  using html5,css, js and mysql.
+→ [View Projects](https://skarn-2006.github.io/Pharmacy_medicine_inventory/)
 
-### 📣 Feedback & Suggestion Portal *(prototype stage)*
-A front-end concept designed to improve communication between students and academic departments through modern, intuitive forms  
-→ [Preview the idea](#)
+
 
 ## ✍️ Clear, Effective Communication
 Beyond the code, I specialize in drafting impactful complaint letters and formal communications that drive results—bridging the gap between technical solutions and institutional improvement.
@@ -42,7 +40,11 @@ If you're into clean code, purposeful design, and real-world impact—we’d pro
 📫 Reach me at:  
 📧 [lunarpulse21@gmail.com](mailto:lunarpulse21@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/shivam-karn-74a567262)
+
 📱 Phone: +91-8826477140
+
+👤 [GitHub Profile](https://skarn-2006.github.io/codsoft_profile/)
+
 
 ---
 
