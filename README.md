@@ -27,8 +27,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
 
 ## 📫 How to reach me
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/YOUR_PROFILE)
-- Email: your.email@example.com  
+- LinkedIn: [(www.linkedin.com/in/shivam-karn-74a567262)
+- Email: your. karn48438@gmail.com
 
 Replace all the placeholder values (YOUR_USERNAME, YOUR_PROFILE, etc.) with your actual information.
 
