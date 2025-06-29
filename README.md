@@ -1,26 +1,35 @@
-<h2> Hi, I'm Shivam Karn! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/fha1cv4Le2lVRXXJsc/giphy.gif?cid=ecf05e47img5vpst86pk43ey6rufm1azq9damy0l62bgt7j5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
-<p><em>BCA Student at <a href="https://www.iec.edu.in//">IEC Group of institute</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![instagram](https://img.shields.io/badge/instagram-fe02bf?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/_@shivamkarn_kayastha/](https://www.instagram.com/))
+# Hi there 👋 I'm [SHIVAM KARN ]
 
-[![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skarn-2006)
+🚀 Full-Stack Developer | Tech Enthusiast | Problem Solver
 
+## 🔧 Technologies & Tools
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-- 👀 I’m interested in web development, AI, and open-source projects.
-- 🌱 I’m currently learning HTML, CSS,, JavaScript, NodeJs, and machine learning techniques.
-- 💞 I’m looking to collaborate on innovative projects that can make a difference.
-- 📫 How to reach me: [karn48438@gmail.com](karn48438@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love hiking and have summited three mountains so far!
-- 📺 I love to listen songs in my free time.
-- 🎮 I love playing video games, especially forzahorizon and strategy games.
+### Programming Languages
+<img alt="C" src="https://placehold.co/120x40/0D597F/white?text=C" />
+<img alt="C++" src="https://placehold.co/120x40/659AD2/white?text=C%2B%2B" />
+<img alt="HTML5" src="https://placehold.co/120x40/E34F26/white?text=HTML5" />
+<img alt="CSS" src="https://placehold.co/120x40/1572B6/white?text=CSS" />
+<img alt="JavaScript" src="https://placehold.co/120x40/F7DF1E/black?text=JavaScript" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skarn-2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Skarn-2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### Tools & Technologies
+<img alt="Git" src="https://placehold.co/120x40/F05032/white?text=Git" />
+<img alt="Linux" src="https://placehold.co/120x40/FCC624/black?text=Linux" />
+<img alt="VS Code" src="https://placehold.co/120x40/007ACC/white?text=VS+Code" />
 
-###
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
+
+## 📫 How to reach me
+- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/YOUR_PROFILE)
+- Email: your.email@example.com  
+
+Replace all the placeholder values (YOUR_USERNAME, YOUR_PROFILE, etc.) with your actual information.
+
+✨ Happy Coding! ✨
