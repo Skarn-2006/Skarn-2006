@@ -64,16 +64,16 @@ const bcaStudent = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Skarn-2006&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skarn-2006&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skarn-2006&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skarn-2006&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -81,7 +81,7 @@ const bcaStudent = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Skarn-2006&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -102,19 +102,7 @@ const bcaStudent = {
 
 ---
 
-## 🚀 Featured Projects
 
-<div align="center">
-
-### 📱 Project 1: inventory management for Pharmacy_medicine_inventory 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical)]([https://github.com/yourusername/project1](https://skarn-2006.github.io/Pharmacy_medicine_inventory/))
-
-### 🎮 Project 2: weather forcasting website 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)]([https://github.com/yourusername/project2](https://skarn-2006.github.io/Weather/))
-
-</div>
-
----
 
 ## 📈 Learning Journey
 
